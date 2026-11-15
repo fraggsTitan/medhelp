@@ -1,0 +1,10 @@
+# Only for the machine where YOU build the index (needs ~2 GB RAM). The deployed API does not install this.
+# Tip: install a CPU-only PyTorch first - it is much smaller:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+-r requirements.txt
+llama-index>=0.12
+llama-index-embeddings-huggingface>=0.5
+llama-index-vector-stores-qdrant>=0.6
+sentence-transformers>=3.0
+transformers>=4.40
+pypdf>=4.0

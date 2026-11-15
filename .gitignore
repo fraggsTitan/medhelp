@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+# downloaded guideline PDFs are big and re-downloadable
+backend/data/*.pdf
+backend/data/*.part
+# KEEP backend/data/manifest.json and backend/data/keyword.sqlite.gz: the deployed API needs both

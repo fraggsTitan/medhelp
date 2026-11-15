@@ -1,0 +1,9 @@
+# Runtime dependencies of the API (deliberately small: no torch, no LlamaIndex, no embedding model).
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.5
+python-multipart>=0.0.9   # voice upload endpoint
+requests>=2.31
+qdrant-client>=1.10       # query_points()
+numpy>=1.26               # semantic answer cache
+python-dotenv>=1.0

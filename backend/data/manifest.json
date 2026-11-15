@@ -1,0 +1,380 @@
+{
+  "9789240033986-eng.pdf": {
+    "title": "WHO Guideline for the Pharmacological Treatment of Hypertension in Adults (2021)",
+    "publisher": "World Health Organization",
+    "grading": "GRADE (strong/conditional recommendation; certainty of evidence)",
+    "topic": "hypertension",
+    "year": 2021,
+    "url": "https://www.who.int/publications/i/item/9789240033986",
+    "pages": 61,
+    "retrieved_at": "2026-10-25T03:12:47+00:00"
+  },
+  "Bookshelf_NBK409108.pdf": {
+    "title": "WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience (2016)",
+    "publisher": "World Health Organization",
+    "grading": "GRADE (recommended / context-specific / not recommended)",
+    "topic": "pregnancy / antenatal care",
+    "year": 2016,
+    "url": "https://www.who.int/publications/i/item/9789241549912",
+    "pages": 172,
+    "retrieved_at": "2026-10-25T03:12:47+00:00"
+  },
+  "rr7103a1-H.pdf": {
+    "title": "CDC Clinical Practice Guideline for Prescribing Opioids for Pain - United States (2022)",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "GRADE (recommendation category A/B; evidence type 1-4)",
+    "topic": "pain / opioids",
+    "year": 2022,
+    "url": "https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm",
+    "pages": 100,
+    "retrieved_at": "2026-10-25T03:12:47+00:00"
+  },
+  "rr7004a1-H.pdf": {
+    "title": "CDC Sexually Transmitted Infections Treatment Guidelines (2021)",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "Narrative evidence review",
+    "topic": "sexually transmitted infections",
+    "year": 2021,
+    "url": "https://www.cdc.gov/mmwr/volumes/70/rr/rr7004a1.htm",
+    "pages": 192,
+    "retrieved_at": "2026-10-25T03:12:47+00:00"
+  },
+  "nihms-1643235.pdf": {
+    "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+    "publisher": "American Heart Association / American College of Cardiology",
+    "grading": "ACC/AHA Class of Recommendation (COR) and Level of Evidence (LOE)",
+    "topic": "cardiovascular prevention (aspirin, statins, blood pressure, diet, tobacco)",
+    "year": 2019,
+    "url": "https://doi.org/10.1016/j.jacc.2019.03.010",
+    "pages": 100,
+    "retrieved_at": "2026-10-25T03:12:47+00:00"
+  },
+  "who_malaria_guidelines.pdf": {
+    "title": "WHO Guidelines for Malaria (living guideline, latest PDF)",
+    "publisher": "World Health Organization",
+    "grading": "GRADE (strong/conditional recommendation; certainty of evidence)",
+    "topic": "malaria",
+    "year": 2025,
+    "url": "https://www.who.int/publications/i/item/guidelines-for-malaria",
+    "pages": 3,
+    "retrieved_at": "2026-10-25T03:37:56+00:00"
+  },
+  "who_hepatitis_b_2024.pdf": {
+    "title": "WHO Guidelines for the Prevention, Diagnosis, Care and Treatment of Chronic Hepatitis B (2024)",
+    "publisher": "World Health Organization",
+    "grading": "GRADE (strong/conditional recommendation; certainty of evidence)",
+    "topic": "hepatitis B",
+    "year": 2024,
+    "url": "https://www.who.int/publications/i/item/9789240090903",
+    "pages": 101,
+    "retrieved_at": "2026-10-25T03:38:01+00:00"
+  },
+  "who_postnatal_care_2022.pdf": {
+    "title": "WHO Recommendations on Maternal and Newborn Care for a Positive Postnatal Experience (2022)",
+    "publisher": "World Health Organization",
+    "grading": "GRADE (strong/conditional recommendation; certainty of evidence)",
+    "topic": "postnatal care",
+    "year": 2022,
+    "url": "https://www.who.int/publications/i/item/9789240045989",
+    "pages": 1,
+    "retrieved_at": "2026-10-25T03:38:04+00:00"
+  },
+  "who_severe_acute_malnutrition_2013.pdf": {
+    "title": "WHO Guideline: Updates on the Management of Severe Acute Malnutrition in Infants and Children (2013)",
+    "publisher": "World Health Organization",
+    "grading": "GRADE (strong/conditional recommendation; certainty of evidence)",
+    "topic": "child malnutrition",
+    "year": 2013,
+    "url": "https://www.who.int/publications/i/item/9789241506328",
+    "pages": 23,
+    "retrieved_at": "2026-10-25T03:38:19+00:00"
+  },
+  "who_aware_antibiotic_book_2022.pdf": {
+    "title": "The WHO AWaRe (Access, Watch, Reserve) Antibiotic Book (2022)",
+    "publisher": "World Health Organization",
+    "grading": "Expert guidance based on evidence reviews",
+    "topic": "antibiotic selection",
+    "year": 2022,
+    "url": "https://www.who.int/publications/i/item/9789240062382",
+    "pages": 10,
+    "retrieved_at": "2026-10-25T03:38:26+00:00"
+  },
+  "kdigo_ckd_2024.pdf": {
+    "title": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+    "publisher": "KDIGO (Kidney Disease: Improving Global Outcomes)",
+    "grading": "KDIGO grade (1 strong / 2 weak) and certainty of evidence (A-D)",
+    "topic": "chronic kidney disease",
+    "year": 2024,
+    "url": "https://kdigo.org/guidelines/ckd-evaluation-and-management/",
+    "pages": 199,
+    "retrieved_at": "2026-10-25T03:38:35+00:00"
+  },
+  "kdigo_diabetes_ckd_2022.pdf": {
+    "title": "KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease",
+    "publisher": "KDIGO (Kidney Disease: Improving Global Outcomes)",
+    "grading": "KDIGO grade (1 strong / 2 weak) and certainty of evidence (A-D)",
+    "topic": "diabetes and kidney disease",
+    "year": 2022,
+    "url": "https://kdigo.org/guidelines/diabetes-in-ckd/",
+    "pages": 128,
+    "retrieved_at": "2026-10-25T03:38:36+00:00"
+  },
+  "9789240015128-eng.pdf": {
+    "title": "WHO Guidelines on Physical Activity and Sedentary Behaviour (2020)",
+    "publisher": "World Health Organization",
+    "grading": "GRADE (strong/conditional recommendation; certainty of evidence)",
+    "topic": "physical activity",
+    "year": 2020,
+    "url": "https://www.who.int/publications/i/item/9789240015128",
+    "pages": 104,
+    "retrieved_at": "2026-10-25T03:48:12+00:00"
+  },
+  "9789241550390-eng.pdf": {
+    "title": "WHO Guidelines for the Pharmacological and Radiotherapeutic Management of Cancer Pain in Adults and Adolescents (2018)",
+    "publisher": "World Health Organization",
+    "grading": "GRADE (strong/conditional recommendation; certainty of evidence)",
+    "topic": "cancer pain",
+    "year": 2018,
+    "url": "https://www.who.int/publications/i/item/9789241550390",
+    "pages": 142,
+    "retrieved_at": "2026-10-25T03:48:31+00:00"
+  },
+  "rr7304a1-H.pdf": {
+    "title": "CDC U.S. Medical Eligibility Criteria for Contraceptive Use (2024)",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "US MEC categories 1-4 (evidence-based)",
+    "topic": "contraception",
+    "year": 2024,
+    "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7304a1.htm",
+    "pages": 129,
+    "retrieved_at": "2026-10-25T03:48:35+00:00"
+  },
+  "rr6902a1-H.pdf": {
+    "title": "CDC Recommendations for Hepatitis C Screening Among Adults (2020)",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "CDC recommendation category (A/B) and evidence type (1-4), or narrative evidence review",
+    "topic": "hepatitis C",
+    "year": 2020,
+    "url": "https://www.cdc.gov/mmwr/volumes/69/rr/rr6902a1.htm",
+    "pages": 20,
+    "retrieved_at": "2026-10-25T03:48:36+00:00"
+  },
+  "rr7305a1-H.pdf": {
+    "title": "CDC Prevention and Control of Seasonal Influenza with Vaccines, ACIP Recommendations 2024-25",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "CDC recommendation category (A/B) and evidence type (1-4), or narrative evidence review",
+    "topic": "influenza vaccination",
+    "year": 2024,
+    "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7305a1.htm",
+    "pages": 28,
+    "retrieved_at": "2026-10-25T03:48:36+00:00"
+  },
+  "rr6502.pdf": {
+    "title": "CDC Diagnosis and Management of Tickborne Rickettsial Diseases (2016)",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "CDC recommendation category (A/B) and evidence type (1-4), or narrative evidence review",
+    "topic": "rickettsial / tick-borne diseases",
+    "year": 2016,
+    "url": "https://www.cdc.gov/mmwr/volumes/65/rr/rr6502a1.htm",
+    "pages": 48,
+    "retrieved_at": "2026-10-25T03:48:36+00:00"
+  },
+  "gold_copd_2026.pdf": {
+    "title": "GOLD 2026 Global Strategy for the Diagnosis, Management and Prevention of COPD",
+    "publisher": "Global Initiative for Chronic Obstructive Lung Disease (GOLD)",
+    "grading": "GOLD evidence levels A-D",
+    "topic": "COPD",
+    "year": 2026,
+    "url": "https://goldcopd.org/2026-gold-report-and-pocket-guide/",
+    "pages": 248,
+    "retrieved_at": "2026-10-25T03:48:48+00:00"
+  },
+  "rr7201a1-H.pdf": {
+    "title": "CDC Universal Hepatitis B Screening and Testing of Adults (2023)",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "CDC recommendation category (A/B) and evidence type (1-4), or narrative evidence review",
+    "topic": "hepatitis B",
+    "year": 2023,
+    "url": "https://www.cdc.gov/mmwr/volumes/72/rr/rr7201a1.htm",
+    "pages": 28,
+    "retrieved_at": "2026-10-25T10:15:52+00:00"
+  },
+  "guideline-hand-hygiene-p.pdf": {
+    "title": "CDC Guideline for Hand Hygiene in Health-Care Settings (2002)",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "CDC/HICPAC categories IA, IB, IC, II",
+    "topic": "infection prevention",
+    "year": 2002,
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5116a1.htm",
+    "pages": 56,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "rr5417.pdf": {
+    "title": "CDC Guidelines for Preventing the Transmission of Mycobacterium tuberculosis in Health-Care Settings (2005)",
+    "publisher": "Centers for Disease Control and Prevention (MMWR)",
+    "grading": "CDC/HICPAC categories IA, IB, IC, II",
+    "topic": "tuberculosis infection control",
+    "year": 2005,
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5417a1.htm",
+    "pages": 144,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "heidenreich-et-al-2022-2022-aha-acc-hfsa-guideline-for-the-management-of-heart-failure-a-report-of-the-american-college.pdf": {
+    "title": "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure",
+    "publisher": "American Heart Association / American College of Cardiology",
+    "grading": "ACC/AHA Class of Recommendation (COR) and Level of Evidence (LOE)",
+    "topic": "heart failure",
+    "year": 2022,
+    "url": "https://doi.org/10.1161/CIR.0000000000001063",
+    "pages": 138,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "whelton-et-al-2017-2017-acc-aha-aapa-abc-acpm-ags-apha-ash-aspc-nma-pcna-guideline-for-the-prevention-detection.pdf": {
+    "title": "2017 ACC/AHA Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults",
+    "publisher": "American Heart Association / American College of Cardiology",
+    "grading": "ACC/AHA Class of Recommendation (COR) and Level of Evidence (LOE)",
+    "topic": "hypertension",
+    "year": 2017,
+    "url": "https://doi.org/10.1161/HYP.0000000000000065",
+    "pages": 103,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "joglar-et-al-2023-2023-acc-aha-accp-hrs-guideline-for-the-diagnosis-and-management-of-atrial-fibrillation-a-report-of.pdf": {
+    "title": "2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "publisher": "American Heart Association / American College of Cardiology",
+    "grading": "ACC/AHA Class of Recommendation (COR) and Level of Evidence (LOE)",
+    "topic": "atrial fibrillation",
+    "year": 2023,
+    "url": "https://doi.org/10.1161/CIR.0000000000001193",
+    "pages": 156,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "kleindorfer-et-al-2021-2021-guideline-for-the-prevention-of-stroke-in-patients-with-stroke-and-transient-ischemic.pdf": {
+    "title": "2021 AHA/ASA Guideline for the Prevention of Stroke in Patients With Stroke and TIA",
+    "publisher": "American Heart Association / American Stroke Association",
+    "grading": "ACC/AHA Class of Recommendation (COR) and Level of Evidence (LOE)",
+    "topic": "stroke prevention",
+    "year": 2021,
+    "url": "https://doi.org/10.1161/STR.0000000000000375",
+    "pages": 104,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "dc26S006.pdf": {
+    "title": "ADA Standards of Care in Diabetes-2026: Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+    "publisher": "American Diabetes Association",
+    "grading": "ADA evidence levels A-E (A = clear evidence from well-conducted RCTs)",
+    "topic": "diabetes glycemic targets",
+    "year": 2026,
+    "url": "https://doi.org/10.2337/dc26-S006",
+    "pages": 18,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "dc26S009.pdf": {
+    "title": "ADA Standards of Care in Diabetes-2026: Pharmacologic Approaches to Glycemic Treatment",
+    "publisher": "American Diabetes Association",
+    "grading": "ADA evidence levels A-E (A = clear evidence from well-conducted RCTs)",
+    "topic": "diabetes medications",
+    "year": 2026,
+    "url": "https://doi.org/10.2337/dc26-S009",
+    "pages": 33,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "dc26S010.pdf": {
+    "title": "ADA Standards of Care in Diabetes-2026: Cardiovascular Disease and Risk Management",
+    "publisher": "American Diabetes Association",
+    "grading": "ADA evidence levels A-E (A = clear evidence from well-conducted RCTs)",
+    "topic": "diabetes and cardiovascular risk",
+    "year": 2026,
+    "url": "https://doi.org/10.2337/dc26-S010",
+    "pages": 30,
+    "retrieved_at": "2026-10-25T10:15:53+00:00"
+  },
+  "9789240030886-eng.pdf": {
+    "title": "WHO guidelines for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention, second edition Web Annex A: Syntheses of evidence",
+    "publisher": "",
+    "grading": "",
+    "topic": "",
+    "year": null,
+    "url": "",
+    "pages": 221,
+    "retrieved_at": "2026-10-25T10:15:54+00:00",
+    "auto_title": true
+  },
+  "9789240030893-eng.pdf": {
+    "title": "WHO guidelines for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention, second edition Web Annex B: Evidence to Decision Table",
+    "publisher": "",
+    "grading": "",
+    "topic": "",
+    "year": null,
+    "url": "",
+    "pages": 49,
+    "retrieved_at": "2026-10-25T10:15:54+00:00",
+    "auto_title": true
+  },
+  "9789240034785-eng.pdf": {
+    "title": "WEB ANNEX A. SYNDROMIC MANAGEMENT OR POINT OF CARE TESTS FOR URETHRAL DISCHARGE: SYSTEMATIC REVIEW AND MATHEMATICAL MODELLING GUIDELINES FOR THE MANAGEMENT OF S",
+    "publisher": "",
+    "grading": "",
+    "topic": "",
+    "year": null,
+    "url": "",
+    "pages": 40,
+    "retrieved_at": "2026-10-25T10:15:55+00:00",
+    "auto_title": true
+  },
+  "9789240034822-eng.pdf": {
+    "title": "WEB ANNEX E. SYSTEMATIC REVIEW FOR SYNDROMIC MANAGEMENT OF GENITAL ULCER DISEASE GUIDELINES FOR THE MANAGEMENT OF SYMPTOMATIC SEXUALLY TRANSMITTED INFECTIONS",
+    "publisher": "",
+    "grading": "",
+    "topic": "",
+    "year": null,
+    "url": "",
+    "pages": 53,
+    "retrieved_at": "2026-10-25T10:15:56+00:00",
+    "auto_title": true
+  },
+  "B09012-eng.pdf": {
+    "title": "Guidelines for the prevention, diagnosis, care and treatment for people with chronic hepatitis B infection Web Annex A1: Summary of declarations of conflict of ",
+    "publisher": "",
+    "grading": "",
+    "topic": "",
+    "year": null,
+    "url": "",
+    "pages": 18,
+    "retrieved_at": "2026-10-25T10:15:56+00:00",
+    "auto_title": true
+  },
+  "grundy-et-al-2018-2018-aha-acc-aacvpr-aapa-abc-acpm-ada-ags-apha-aspc-nla-pcna-guideline-on-the-management-of-blood.pdf": {
+    "title": "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/Am",
+    "publisher": "",
+    "grading": "",
+    "topic": "",
+    "year": null,
+    "url": "",
+    "pages": 62,
+    "retrieved_at": "2026-10-25T10:15:56+00:00",
+    "auto_title": true
+  },
+  "updates-management-sam-infantandchildren-review1.pdf": {
+    "title": "Screening for severe acute malnutrition in infants aged > 6 months : a systematic review of evidence",
+    "publisher": "",
+    "grading": "",
+    "topic": "",
+    "year": null,
+    "url": "",
+    "pages": 23,
+    "retrieved_at": "2026-10-25T10:15:56+00:00",
+    "auto_title": true
+  },
+  "virani-et-al-2023-2023-aha-acc-accp-aspc-nla-pcna-guideline-for-the-management-of-patients-with-chronic-coronary.pdf": {
+    "title": "2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease: A Report of the American Heart Association/American Coll",
+    "publisher": "",
+    "grading": "",
+    "topic": "",
+    "year": null,
+    "url": "",
+    "pages": 111,
+    "retrieved_at": "2026-10-25T10:15:56+00:00",
+    "auto_title": true
+  }
+}

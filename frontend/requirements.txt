@@ -1,0 +1,3 @@
+streamlit>=1.40        # st.audio_input (voice) needs 1.40+
+requests>=2.31
+fpdf2>=2.7             # optional: PDF export (Markdown export works without it)
