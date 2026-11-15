@@ -4,7 +4,7 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
-.streamlit/secrets.toml
+frontend/.streamlit/secrets.toml
 # downloaded guideline PDFs are big and re-downloadable
 backend/data/*.pdf
 backend/data/*.part
